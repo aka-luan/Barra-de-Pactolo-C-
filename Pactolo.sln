@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pactolo", "Pactolo\Pactolo.csproj", "{02271956-C60B-4865-A2C0-89A2271CDB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02271956-C60B-4865-A2C0-89A2271CDB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02271956-C60B-4865-A2C0-89A2271CDB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02271956-C60B-4865-A2C0-89A2271CDB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02271956-C60B-4865-A2C0-89A2271CDB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A99D5091-9ACA-4337-B24A-A363F461D7CC}
+	EndGlobalSection
+EndGlobal
